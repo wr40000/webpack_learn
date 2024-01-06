@@ -1,3 +1,3 @@
-[submodule "webpack_learn"]
-	path = webpack_learn
-	url = https://github.com/wr40000/webpack_learn.git
+[submodule "vue-cli"]
+	path = vue-cli
+	url = C:/Program Files/Git/vue-cli
